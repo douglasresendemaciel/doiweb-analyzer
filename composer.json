@@ -20,6 +20,6 @@
         "php": ">=7.0",
         "your-app-rocks/eloquent-uuid": "^2.0",
         "illuminate/database": "~5.8",
-        "czim/laravel-repository": "*"
+        "czim/laravel-repository": "~1.4"
     }
 }
